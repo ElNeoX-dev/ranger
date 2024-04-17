@@ -596,7 +596,7 @@
          system has authentication enabled.
       -->
     <requestParsers enableRemoteStreaming="true"
-                    multipartUploadLimitInKB="2048000"
+                    multipartUploadLimitInKB="2.4.0-1.000"
                     formdataUploadLimitInKB="2048"
                     addHttpRequestToContext="true"/>
 
